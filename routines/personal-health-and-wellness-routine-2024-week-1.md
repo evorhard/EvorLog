@@ -6,6 +6,7 @@
 - [ ] Waist Circumference: cm
 
 ## Yoga
+
 - [ ] **Tadasana (Mountain Pose)** (Sets: 1 → Duration: 30 seconds)
 - [ ] **Uttanasana (Forward Fold)** (Sets: 1 → Duration: 30 seconds)
 - [ ] **Marjarasana-Bitilasana (Cat-Cow Pose)** (Sets: 1 → Duration: 30 seconds)
@@ -36,6 +37,10 @@
 
 - [ ] **Hanging Stretches** (Sets: 1 → Repetitions: 20 seconds)
 - [ ] **Supine Twist** (Sets: 1 → Repetitions: 15 seconds each side)
+
+### Hygiene
+
+- [ ] **Brush With Toothpaste**
 
 ## Evening
 
