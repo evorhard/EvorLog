@@ -41,6 +41,7 @@
 ### Hygiene
 
 - [ ] **Brush With Toothpaste**
+- [ ] **Apply Lotion**
 
 ## Evening
 
