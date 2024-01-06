@@ -3,6 +3,7 @@
 <p>Journaling all the things I accomplished in the day.</p>
 
 <h2>Journal Entries</h2>
+<li><a href="2024/01-January/2024-01-06.md">2024-01-06</a></li>
 <li><a href="2024/01-January/2024-01-05.md">2024-01-05</a></li>
 <li><a href="2024/01-January/2024-01-04.md">2024-01-04</a></li>
 <li><a href="2024/01-January/2024-01-03.md">2024-01-03</a></li>
