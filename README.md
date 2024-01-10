@@ -5,6 +5,7 @@
 <h2>Journal Entries</h2>
 <h3>Week 2</h3>
 <ul>
+    <li><a href="2024/01-January/Week 2/2024-01-10.md">2024-01-10</a></li>
     <li><a href="2024/01-January/Week 2/2024-01-09.md">2024-01-09</a></li>
     <li><a href="2024/01-January/Week 2/2024-01-08.md">2024-01-08</a></li>
 </ul>
