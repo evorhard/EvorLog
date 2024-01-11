@@ -1,4 +1,4 @@
-<h1>Course and Tutorials Followed</h1>
+<h1>Course, Tutorials and Guides Followed</h1>
 
 <h2><a href="https://www.youtube.com/@AkamaiDeveloper">Akamai Developer</a></h2>
 <ul>
