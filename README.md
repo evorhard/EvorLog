@@ -2,6 +2,8 @@
 
 <p>Journaling all the things I accomplished in the day.</p>
 
+<a href="">All the tutorials/courses I have followed (since keeping track)</a>
+
 <h2>Journal Entries</h2>
 <h3>January</h3>
 <h4>Week 2</h4>
