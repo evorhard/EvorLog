@@ -2,7 +2,7 @@
 
 <p>Journaling all the things I accomplished in the day.</p>
 
-<a href="courses-and-tutorials.md">All the tutorials/courses I have followed (since keeping track)</a>
+<a href="courses-tutorials-and-guides.md">All the tutorials/courses I have followed (since keeping track)</a>
 
 <h2>Journal Entries</h2>
 <h3>January</h3>
