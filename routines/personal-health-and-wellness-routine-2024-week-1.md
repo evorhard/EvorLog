@@ -36,7 +36,7 @@
 ### Back Exercises
 
 - [ ] **Hanging Stretches** (Sets: 1 → Repetitions: 20 seconds)
-- [ ] **Supine Twist** (Sets: 1 → Repetitions: 15 seconds each side)
+- [ ] **Supine Twist** (Sets: 6 → Repetitions: 5 seconds each side)
 
 ### Hygiene
 
