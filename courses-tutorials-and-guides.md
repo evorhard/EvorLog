@@ -10,6 +10,11 @@
     <li><a href="https://www.youtube.com/watch?v=olY_2MW4Eik">Spotify API OAuth - Automate Getting User Playlists (Complete Tutorial)</a></li>
 </ul>
 
+<h2><a href="https://www.youtube.com/@projectfinance">projectfinance</a></h2>
+<ul>
+    <li><a href="https://www.youtube.com/watch?v=O8EN51F6jUo"></a></li>
+</ul>
+
 <h2>Tim McNamara</h2>
 <ul>
     <li><a href="https://www.manning.com/books/rust-in-action">Rust in Action</a></li>
