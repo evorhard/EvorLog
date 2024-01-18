@@ -12,7 +12,7 @@
 
 <h2><a href="https://www.youtube.com/@projectfinance">projectfinance</a></h2>
 <ul>
-    <li><a href="https://www.youtube.com/watch?v=O8EN51F6jUo"></a>Options Trading for Beginners in 10 Minutes (Learn the Basics FAST)</li>
+    <li><a href="https://www.youtube.com/watch?v=O8EN51F6jUo">Options Trading for Beginners in 10 Minutes (Learn the Basics FAST)</a></li>
 </ul>
 
 <h2>Tim McNamara</h2>
