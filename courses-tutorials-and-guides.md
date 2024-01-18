@@ -12,7 +12,7 @@
 
 <h2><a href="https://www.youtube.com/@projectfinance">projectfinance</a></h2>
 <ul>
-    <li><a href="https://www.youtube.com/watch?v=O8EN51F6jUo"></a></li>
+    <li><a href="https://www.youtube.com/watch?v=O8EN51F6jUo"></a>Options Trading for Beginners in 10 Minutes (Learn the Basics FAST)</li>
 </ul>
 
 <h2>Tim McNamara</h2>
@@ -20,7 +20,7 @@
     <li><a href="https://www.manning.com/books/rust-in-action">Rust in Action</a></li>
 </ul>
 
-<h2>Zero to Mastery</h2>
+<h2><a href="https://www.youtube.com/@ZeroToMastery">Zero to Mastery</a></h2>
 <ul>
     <li><a href="https://www.youtube.com/watch?v=lzKeecy4OmQ">Rust 101 Crash Course: Learn Rust (6 HOURS!) + 19 Practice Exercises | Zero To Mastery</a></li>
 </ul>
