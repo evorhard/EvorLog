@@ -19,3 +19,8 @@
 <ul>
     <li><a href="https://www.manning.com/books/rust-in-action">Rust in Action</a></li>
 </ul>
+
+<h2>Zero to Mastery</h2>
+<ul>
+    <li><a href="https://www.youtube.com/watch?v=lzKeecy4OmQ">Rust 101 Crash Course: Learn Rust (6 HOURS!) + 19 Practice Exercises | Zero To Mastery</a></li>
+</ul>
