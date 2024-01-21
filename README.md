@@ -8,7 +8,7 @@
 <h3>2024</h3>
 <h4>January</h4>
 <details>
-    <summary><h5>Week 3</h5></summary>
+    <summary>Week 3</summary>
     <ul>
         <li><a href="2024/01-January/Week 3/2024-01-21.md">2024-01-21</a></li>
         <li><a href="2024/01-January/Week 3/2024-01-20.md">2024-01-20</a></li>
@@ -20,7 +20,7 @@
     </ul>
 </details>
 <details>
-    <summary><h5>Week 2</h5></summary>
+    <summary>Week 2</summary>
     <ul>
         <li><a href="2024/01-January/Week 2/2024-01-14.md">2024-01-14</a></li>
         <li><a href="2024/01-January/Week 2/2024-01-13.md">2024-01-13</a></li>
@@ -32,7 +32,7 @@
     </ul>
 </details>
 <details>
-    <summary><h5>Week 1</h5></summary>
+    <summary>Week 1</summary>
     <ul>
         <li><a href="2024/01-January/Week 1/2024-01-07.md">2024-01-07</a></li>
         <li><a href="2024/01-January/Week 1/2024-01-06.md">2024-01-06</a></li>
