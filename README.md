@@ -9,6 +9,7 @@
 <h4>January</h4>
 <h5>Week 4</h5>
 <ul>
+    <li><a href="2024/01-January/Week 4/2024-01-25.md">2024-01-25</a></li>
     <li><a href="2024/01-January/Week 4/2024-01-24.md">2024-01-24</a></li>
     <li><a href="2024/01-January/Week 4/2024-01-23.md">2024-01-23</a></li>
     <li><a href="2024/01-January/Week 4/2024-01-22.md">2024-01-22</a></li>
