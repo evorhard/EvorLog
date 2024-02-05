@@ -8,7 +8,7 @@
 <h3>2024</h3>
 <h4>Week 6</h4>
 <ul>
-    <li><a href="2024/Week 5/2024-02-05.md">2024-02-05</a></li>
+    <li><a href="2024/Week 6/2024-02-05.md">2024-02-05</a></li>
 </ul>
 <details>
 <summary>Week 5</summary>
