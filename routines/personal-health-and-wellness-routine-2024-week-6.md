@@ -7,12 +7,12 @@
 
 ## Yoga
 
-- [ ] **Tadasana (Mountain Pose)** (Sets: 2 → Duration: 30 seconds)
-- [ ] **Uttanasana (Forward Fold)** (Sets: 2 → Duration: 30 seconds)
-- [ ] **Marjarasana-Bitilasana (Cat-Cow Pose)** (Sets: 2 → Duration: 30 seconds)
-- [ ] **Balasana (Child's Pose)** (Sets: 2 → Duration: 30 seconds)
-- [ ] **Paschimottanasana (Seated Forward Fold)** (Sets: 2 → Duration: 30 seconds)
-- [ ] **Savasana (Corpse Pose)** (Sets: 2 → Duration: 30 seconds)
+- [ ] **Tadasana (Mountain Pose)** (Sets: 1 → Duration: 30 seconds)
+- [ ] **Uttanasana (Forward Fold)** (Sets: 1 → Duration: 30 seconds)
+- [ ] **Marjarasana-Bitilasana (Cat-Cow Pose)** (Sets: 1 → Duration: 30 seconds)
+- [ ] **Balasana (Child's Pose)** (Sets: 1 → Duration: 30 seconds)
+- [ ] **Paschimottanasana (Seated Forward Fold)** (Sets: 1 → Duration: 30 seconds)
+- [ ] **Savasana (Corpse Pose)** (Sets: 1 → Duration: 30 seconds)
 
 ### Meditate
 
