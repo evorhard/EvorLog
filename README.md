@@ -2,8 +2,6 @@
 
 <p>Journaling all the things I accomplished in the day.</p>
 
-<a href="courses-tutorials-and-guides.md">All the tutorials, courses and guides I have followed (since keeping track)</a>
-
 <h2>Journal Entries</h2>
 <h3>2024</h3>
 <h4>Week 7</h4>
