@@ -20,15 +20,15 @@
 
 ### Kettlebell Exercises
 
-- [ ] **Kettlebell Slingshot** (20 kg) (Sets: 2 → Repetitions: 5 each way)
+- [ ] **Kettlebell Slingshot** (20 kg) (Sets: 1 → Repetitions: 5 each way)
 - [ ] **Kettlebell Halo** (20 kg) (Sets: 1 → Repetitions: 5 each way)
 - [ ] **Kettlebell Goblet Squat** (20 kg)(Sets: 1 → Repetitions: 10)
 - [ ] **Kettlebell Single Leg Deadlift** (20 kg) (Sets: 1 → Repetitions: 5 each leg)
-- [ ] **Kettlebell Two Handed Swing** (20 kg) (Sets: 2 → Repetitions: 10)
+- [ ] **Kettlebell Two Handed Swing** (20 kg) (Sets: 1 → Repetitions: 10)
 - [ ] **Kettlebell One Handed Swing** (20 kg) (Sets: 1 → Repetitions: 5 each arm)
 - [ ] **Kettlebell Single Arm Deadlift** (20 kg) (Sets: 1 → Repetitions: 5 each arm)
 - [ ] **Kettlebell Regular Row** (20 kg) (Sets: 1 → Repetitions: 5 each arm)
-- [ ] **Kettlebell Overhead Press** (20 kg) (Sets: 2 → Repetitions: 5 each arm)
+- [ ] **Kettlebell Overhead Press** (20 kg) (Sets: 1 → Repetitions: 5 each arm)
 - [ ] **Kettlebell Farmers Walk** (20 kg) (Sets: 1 → Duration: 60 seconds each arm)
 - [ ] **Kettlebell Good Morning** (20 kg) (Sets: 1 → Repetitions: 10)
 - [ ] **Kettlebell Clean** (20 kg) (Sets: 1 → Repetitions: 5 each arm)
