@@ -4,16 +4,22 @@
 
 <h2>Journal Entries</h2>
 <h3>2024</h3>
-<h4>Week 8</h4>
+<h4>Week 9</h4>
 <ul>
-    <li><a href="2024/Week 8/2024-02-25.md">2024-02-25</a></li> 
-    <li><a href="2024/Week 8/2024-02-24.md">2024-02-24</a></li> 
-    <li><a href="2024/Week 8/2024-02-23.md">2024-02-23</a></li>
-    <li><a href="2024/Week 8/2024-02-22.md">2024-02-22</a></li>
-    <li><a href="2024/Week 8/2024-02-21.md">2024-02-21</a></li>
-    <li><a href="2024/Week 8/2024-02-20.md">2024-02-20</a></li>
-    <li><a href="2024/Week 8/2024-02-19.md">2024-02-19</a></li>
+    <li><a href="2024/Week 8/2024-02-26.md">2024-02-26</a></li>
 </ul>
+<details>
+<summary>Week 8</summary>
+    <ul>
+        <li><a href="2024/Week 8/2024-02-25.md">2024-02-25</a></li> 
+        <li><a href="2024/Week 8/2024-02-24.md">2024-02-24</a></li> 
+        <li><a href="2024/Week 8/2024-02-23.md">2024-02-23</a></li>
+        <li><a href="2024/Week 8/2024-02-22.md">2024-02-22</a></li>
+        <li><a href="2024/Week 8/2024-02-21.md">2024-02-21</a></li>
+        <li><a href="2024/Week 8/2024-02-20.md">2024-02-20</a></li>
+        <li><a href="2024/Week 8/2024-02-19.md">2024-02-19</a></li>
+    </ul>
+</details>
 <details>
 <summary>Week 7</summary>
     <ul>
