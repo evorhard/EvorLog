@@ -4,7 +4,12 @@
 
 <h2>Journal Entries</h2>
 <h3>2024</h3>
-<h4>Week 13</h4>
+<h4>Week 14</h4>
+<ul>
+    <li><a href="2024/Week 14/2024-04-01.md">2024-04-01</a></li>
+</ul>
+<details>
+<summary>Week 13</summary>
 <ul>
     <li><a href="2024/Week 13/2024-03-31.md">2024-03-31</a></li>
     <li><a href="2024/Week 13/2024-03-30.md">2024-03-30</a></li>
@@ -14,6 +19,7 @@
     <li><a href="2024/Week 13/2024-03-26.md">2024-03-26</a></li>
     <li><a href="2024/Week 13/2024-03-25.md">2024-03-25</a></li>
 </ul>
+</details>
 <details>
 <summary>Week 12</summary>
 <ul>
