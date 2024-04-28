@@ -1,0 +1,2 @@
+- [ ] **Hanging Stretches** _→_ Sets: 2 (Repetitions: 20 seconds)
+- [ ] **Supine Twist →** Sets: 1 (Repetitions: 15 seconds each side)

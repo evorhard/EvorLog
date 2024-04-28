@@ -1,0 +1,6 @@
+- [ ] **Tadasana (Mountain Pose) →** Sets: 1 (Duration: 30 seconds)
+- [ ] **Uttanasana (Forward Fold) →** Sets: 1 (Duration: 30 seconds)
+- [ ] **Marjarasana-Bitilasana (Cat-Cow Pose) →** Sets: 1 (Duration: 30 seconds)
+- [ ] **Balasana (Child's Pose) →** Sets: 1 (Duration: 30 seconds)
+- [ ] **Paschimottanasana (Seated Forward Fold) →** Sets: 1 (Duration: 30 seconds)
+- [ ] **Sarpasana (Snake Pose) →** Sets: 1 (Duration: 30 seconds)

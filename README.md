@@ -2,10 +2,13 @@
 
 <p>Diligently documenting my daily activities and progress, which may be of interest to those who follow my work.</p>
 
+<p>Note: tasks in routines that are in italics might or might not be done.</p>
+
 <h2>Journal Entries</h2>
 <h3>2024</h3>
 <h4>Week 17</h4>
 <ul>
+    <li><a href="2024/Week 17/2024-04-28.md">2024-04-28</a></li>
     <li><a href="2024/Week 17/2024-04-27.md">2024-04-27</a></li>
     <li><a href="2024/Week 17/2024-04-26.md">2024-04-26</a></li>
     <li><a href="2024/Week 17/2024-04-25.md">2024-04-25</a></li>
