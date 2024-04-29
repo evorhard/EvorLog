@@ -6,7 +6,12 @@
 
 <h2>Journal Entries</h2>
 <h3>2024</h3>
-<h4>Week 17</h4>
+<h4>Week 18</h4>
+<ul>
+    <li><a href="2024/Week 18/2024-04-29.md">2024-04-29</a></li>
+</ul>
+<details>
+<summary>Week 17</summary>
 <ul>
     <li><a href="2024/Week 17/2024-04-28.md">2024-04-28</a></li>
     <li><a href="2024/Week 17/2024-04-27.md">2024-04-27</a></li>
@@ -16,6 +21,7 @@
     <li><a href="2024/Week 17/2024-04-23.md">2024-04-23</a></li>
     <li><a href="2024/Week 17/2024-04-22.md">2024-04-22</a></li>
 </ul>
+</details>
 <details>
 <summary>Week 16</summary>
 <ul>
