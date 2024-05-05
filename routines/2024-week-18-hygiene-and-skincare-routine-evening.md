@@ -1,4 +1,0 @@
-- [ ] Floss
-- [ ] Brush With Toothpaste
-- [ ] Apply Lotion
-- [ ] _Teeth Whitening_

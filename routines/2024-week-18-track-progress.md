@@ -1,2 +1,0 @@
-- [ ] Add Weight to **Life Fasting App**
-- [ ] Add Waist Circumference to **Life Fasting App**

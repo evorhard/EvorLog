@@ -1,2 +1,0 @@
-- [ ] Brush With Toothpaste
-- [ ] Apply Lotion
